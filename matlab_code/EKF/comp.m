@@ -1,0 +1,53 @@
+a_d_alpha_theta0_norm =...
+   [0.001524184057013
+   0.267430835606799
+   0.070000000000000
+   0.000000000000000
+  -0.000000000000001
+  -0.006512001836066
+   0.290778085805715
+   0.002879383581716
+   0.002877572293087
+   0.301743965845909
+   0.000923257532336
+   0.072000000000000
+  -1.567558035489908
+  -0.000056749322072
+  -1.570226486800387
+   1.571223089384269
+  -1.570906892853778
+  -0.000000000000000
+  -0.000000000000000
+  -1.570000000000000
+   0.005038071314626
+   0.000061129970660
+   0.001074738862862
+   0.000021768620893];
+a_d_alpha_theta0_norm(1)=a_d_alpha_theta0_norm(1)*1000;
+a_d_alpha_theta0_norm(2)=a_d_alpha_theta0_norm(2)*1000;
+a_d_alpha_theta0_norm(3)=a_d_alpha_theta0_norm(3)*1000;
+a_d_alpha_theta0_norm(4)=a_d_alpha_theta0_norm(4)*1000;
+a_d_alpha_theta0_norm(5)=a_d_alpha_theta0_norm(5)*1000;
+a_d_alpha_theta0_norm(6)=a_d_alpha_theta0_norm(6)*1000;
+a_d_alpha_theta0_norm(7)=a_d_alpha_theta0_norm(7)*1000;
+a_d_alpha_theta0_norm(8)=a_d_alpha_theta0_norm(8)*1000;
+a_d_alpha_theta0_norm(9)=a_d_alpha_theta0_norm(9)*1000;
+a_d_alpha_theta0_norm(10)=a_d_alpha_theta0_norm(10)*1000;
+a_d_alpha_theta0_norm(11)=a_d_alpha_theta0_norm(11)*1000;
+a_d_alpha_theta0_norm(12)=a_d_alpha_theta0_norm(12)*1000;
+a_d_alpha_theta0_norm(13)=a_d_alpha_theta0_norm(13)*180/pi;
+a_d_alpha_theta0_norm(14)=a_d_alpha_theta0_norm(14)*180/pi;
+a_d_alpha_theta0_norm(15)=a_d_alpha_theta0_norm(15)*180/pi;
+a_d_alpha_theta0_norm(16)=a_d_alpha_theta0_norm(16)*180/pi;
+a_d_alpha_theta0_norm(17)=a_d_alpha_theta0_norm(17)*180/pi;
+a_d_alpha_theta0_norm(18)=a_d_alpha_theta0_norm(18)*180/pi;
+a_d_alpha_theta0_norm(19)=a_d_alpha_theta0_norm(19)*180/pi;
+a_d_alpha_theta0_norm(20)=a_d_alpha_theta0_norm(20)*180/pi;
+a_d_alpha_theta0_norm(21)=a_d_alpha_theta0_norm(21)*180/pi;
+a_d_alpha_theta0_norm(22)=a_d_alpha_theta0_norm(22)*180/pi;
+a_d_alpha_theta0_norm(23)=a_d_alpha_theta0_norm(23)*180/pi;
+a_d_alpha_theta0_norm(24)=a_d_alpha_theta0_norm(24)*180/pi;
+format long g
+a_d_alpha_theta0_norm
+
+
